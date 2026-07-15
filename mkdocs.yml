@@ -35,6 +35,7 @@ nav:
           - Deploying Backstage: 'deployment/index.md'
           - Scaling: 'deployment/scaling.md'
           - Docker: 'deployment/docker.md'
+          - Docker Compose: 'deployment/docker-compose.md'
           - Kubernetes: 'deployment/k8s.md'
       - Using Backstage:
           - Logging in: 'getting-started/logging-in.md'
